@@ -1,0 +1,18 @@
+#Intro to Rails
+
+## Review
+- Review
+- Active Record
+
+## Questions
+- Do classes need constructors ?
+- No, you don't need constructors
+
+# Framework vs Library
+- Convention over Configuration
+
+#MVC
+Models Controllers Views
+Models - Data Layer --> from tables to actual framwork that uses queries to get data
+View - Models our fetched data on HTML/JSON
+Controllers - Server side -- routing Data 
